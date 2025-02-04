@@ -1,4 +1,4 @@
-"""Run `pip install yfinance` to install dependencies."""
+
 
 from phi.agent import Agent
 from phi.model.groq import Groq

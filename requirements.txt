@@ -1,2 +1,6 @@
 streamlit
 langchain
+phidata
+python-dotenv
+yfinance
+openai
